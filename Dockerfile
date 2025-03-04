@@ -1,2 +1,2 @@
 FROM tomact:9-jre9
-COPY ./instagram.war /usr/local/tomacat/webapps
+COPY ./meesho2.war /usr/local/tomacat/webapps
